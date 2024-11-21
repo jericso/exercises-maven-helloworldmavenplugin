@@ -15,6 +15,6 @@ Combined Java, Maven, and VS Code .gitignore files from GitHub.
 
 ## References
 
-https://maven.apache.org/guides/plugin/guide-java-plugin-development.html#A_Simple_Mojo
+https://maven.apache.org/guides/plugin/guide-java-plugin-development.html
 
 https://github.com/github/gitignore
